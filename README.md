@@ -4,7 +4,7 @@ Machine Learning_mini project
 모든 예측은 교차 검증(cross validation)을 사용함.
 
 ### mnist hand writing data prediction
-손글씨 숫자 데이터를 이용하여 어떤 숫자인지 판별.\n
+손글씨 숫자 데이터를 이용하여 어떤 숫자인지 판별. \n
 poly_kernel_svm_clf을 이용.
 
 ### HAR(Human Activity Recognition) prediction
